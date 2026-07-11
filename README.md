@@ -41,3 +41,6 @@ This project analyzes the Zepto grocery dataset using SQL. It includes data clea
 ## SQL Queries
 
 - [View SQL Queries](SQL_Queries.sql)
+- ![Query 1](screenshots/Screenshot%202026-07-12%20003000.png)
+
+![Query 2](screenshots/Screenshot%202026-07-12%20003120.png)
