@@ -1,6 +1,6 @@
 # Zepto-SQL-Data-Analysis
 SQL Data Analysis project using Zepto dataset
-# Zepto SQL Data Analysis
+
 
 ## Project Overview
 This project analyzes the Zepto grocery dataset using SQL. It includes data cleaning, exploratory data analysis (EDA), and business insights.
