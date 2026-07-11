@@ -38,3 +38,6 @@ This project analyzes the Zepto grocery dataset using SQL. It includes data clea
 
 ## Author
 **Bhavana Patnam**
+## SQL Queries
+
+- [View SQL Queries](SQL_Queries.sql)
